@@ -3,6 +3,8 @@
 Developed with Unreal Engine 5.1
 The game is in alpha stage
 
+Video https://youtu.be/k93pvAuvSwI
+
 This is a game about a rat who places treasure in chests for adventurers
 Our task is not to catch the eye of adventure seekers
 
